@@ -163,5 +163,4 @@ A frente Oracle exige tela do SQL Developer; os prints em `prints/` são a evid�
 Squad oriundo da Fase 2 (cultura: café) + Cap 10 (modelagem). Grupo no portal da FIAP:
 **Vinicius Anjos, Higor Henrique Garcia, Igor, Humberto.**
 
-Coordenação técnica e documentação: Higor Henrique Garcia (workflow IA-assistido com
-agentes Cursor, no monorepo `fiap-academic-workflow`).
+Coordenação técnica e documentação: Higor Henrique Garcia
