@@ -10,7 +10,7 @@
 | **Grupo** | Vinicius Anjos (RM572814), Higor Henrique Garcia (RM571820), Igor (RM572822), Humberto (RM570536) |
 | **Cultura** | Café (*Coffea arabica*) — continuidade da Fase 2 |
 | **Prazo** | 19/05/2026 23h59 |
-| **Vídeo demonstrativo** | <link YouTube não-listado em `link_video.txt`> |
+| **Vídeo demonstrativo** | [YouTube - Assista ao Vídeo](https://www.youtube.com/watch?v=_6Lw-zrImlQ) |
 
 ## 1. Visão geral da entrega
 
